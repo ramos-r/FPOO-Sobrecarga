@@ -1,0 +1,11 @@
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.exe
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.deps.json
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.runtimeconfig.json
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.runtimeconfig.dev.json
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.dll
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.pdb
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.csprojAssemblyReference.cache
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.AssemblyInfoInputs.cache
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.AssemblyInfo.cs
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.dll
+C:\Users\Rebecca\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.pdb
